@@ -1,4 +1,5 @@
 # Jamshack
 Light-tin Tale
-
-The game is still in process and being worked on new features.
+New levels added
+New Mechanics added.
+Overall movement and reflection physics improved.
